@@ -1,2 +1,2 @@
-# Tugas6_149
+# Tugas6_149_103
 CNN Tugas6
